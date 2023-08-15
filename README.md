@@ -8,8 +8,8 @@ I'm Ben.
 
 ```
  _____________________________
-/ Dont look back, you aren't  \
-\       going that way        /
+/ Don't look back, you aren't \
+\       going that way.       /
  -----------------------------
         \   ^__^
          \  (oo)\_______
