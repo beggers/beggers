@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Ben.
+I'm Ben.
 
 * I currently work at [Mercury](https://mercury.com/), making banking ✨seamless and magical✨ for companies
 * My software background is mainly in infrastructure but I'm trying to acquire more breadth (what the hell is a Typescript, anyway?)
